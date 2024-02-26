@@ -1,0 +1,19 @@
+.end{
+    text-align: center;
+    background-color:greenyellow;
+    margin: 2%;
+    padding: 10%;
+
+}
+
+.end h1{
+    color: blue;
+}
+
+.end button{
+    color: blue;
+    background-color: violet;
+    padding: 15px;
+    border: 2px solid black;
+}
+

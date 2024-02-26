@@ -1,0 +1,16 @@
+.Content{
+    color: blue;
+    text-align: center;
+}
+
+.Content button{
+    color: black;
+    background-color: rgb(131, 131, 190);
+    padding: 10px;
+    border: 1px solid black;
+    font-size: larger;
+}
+
+.Content h2{
+    color: red;
+}

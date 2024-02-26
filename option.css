@@ -1,0 +1,39 @@
+.options{
+    list-style: none;
+    margin: 3%;
+    padding: 0;
+   
+
+}
+
+.options li{
+    padding: 10px;
+    background-color: rgb(80, 80, 120);
+    margin: 30px 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.options li:hover{
+    background-color: blueviolet;
+}
+
+.options .crt, .options .crt:hover{
+    background-color: green;
+    font-weight: bolder;
+}
+
+.options .incrt, .options .incrt:hover{
+    background-color: red;
+    font-weight: bolder;
+}
+
+.para1{
+    color: green;
+    font-size: 30px;
+}
+
+.para2{
+    color: red;
+    font-size: 30px;
+}
